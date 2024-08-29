@@ -1,7 +1,9 @@
 # MySQL Learning Repository
 
 ## Introduction:-
-                This repository is dedicated to MySQL learning and practice. It contains a collection of SQL queries, schema designs, and detailed explanations of various MySQL concepts. Whether you're a beginner or looking to refine your SQL skills, this repository offers valuable resources for everyone.
+                This repository is dedicated to MySQL learning and practice. It contains a collection of SQL queries, schema designs, 
+                and detailed explanations of various MySQL concepts. Whether you're a beginner or looking to refine your SQL skills, 
+                this repository offers valuable resources for everyone.
 
 ### Table of Contents:-
                     1. Getting Started
