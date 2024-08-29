@@ -12,6 +12,7 @@
                     4. Contributions
                     5. License
                     6. Contact
+                    7. Acknowledgments
 
 ## Getting Started:- 
                    1. To get started, clone the repository using the following command: git clone https://github.com/TambulkarPriya/MySQL.git
@@ -38,7 +39,7 @@
 ## Contact:- For any queries or suggestions, Friendly Suggestions are most welcome. please contact - 
             https://www.linkedin.com/in/priya-tambulkar 
           
-              
+## Acknowledgments: The resources and databases used in this repository are sourced from publicly available websites, educational books, and online tutorials. Special thanks to the MySQL community and various online platforms for providing valuable learning materials that have contributed to the creation of this repository. This repository is intended for educational purposes and to help others learn and practice MySQL.
             
             
 
