@@ -17,6 +17,7 @@
 ## Getting Started:- 
                    1. To get started, clone the repository using the following command: git clone https://github.com/TambulkarPriya/MySQL.git
                    2. Ensure you have MySQL installed on your system. Follow the official documentation to set up MySQL: MySQL Installation Guide.
+                   3. https://www.mysqltutorial.org/mysql-functions/
 
 ## Contents:-
             1. Basics: 
